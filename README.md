@@ -9,7 +9,8 @@ The Coca-Cola Sales Dashboard is a comprehensive visualization tool developed us
 
 •	Transformed and processed Coca-Cola Retailer Data by using Power Query to ensure data completeness and validity.
 
-•	Provided dynamic dashboard provides real-time insights into key sales metrics, including revenue, units sold, market share, and regional performance.
+•	Provided dynamic dashboard provides real-time insights into key sales metrics, including revenue, units sold,
+  market share, and regional performance.
 
 
 
