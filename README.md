@@ -4,85 +4,90 @@
 
 📊 PROJECT OVERVIEW
 ----------------------------------------------------
-This Power BI project analyzes sales performance data
-for Coca-Cola products using an interactive dashboard.
-The goal is to convert raw sales data into clear and
-actionable business insights related to revenue trends,
-regional performance, and product behavior over time.
+This project presents an interactive Power BI dashboard
+developed to analyze and monitor sales performance of
+Coca-Cola beverage products using an educational,
+course-based retail sales dataset.
 
-The dashboard is built to support exploratory analysis
-and data-driven decision-making.
+The dashboard transforms structured sales data into
+clear insights that support understanding revenue,
+volume, profitability, and regional performance across
+the United States.
 
 
-🎯 BUSINESS CONTEXT
+🎯 PROJECT OBJECTIVE
 ----------------------------------------------------
-The business operates in a high-volume, low-price sales
-model, where understanding seasonal trends, regional
-differences, and product performance is essential for
-optimizing sales and distribution strategies.
+The main objective of this project is to demonstrate how
+Power BI can be used to analyze retail sales data and
+deliver meaningful insights through interactive
+visualizations, KPIs, and filters.
 
-This project helps stakeholders quickly identify
-performance patterns and revenue drivers.
+The project focuses on helping users explore sales
+behavior, identify trends, and compare performance across
+products, regions, and time periods.
 
 
-📈 KEY METRICS (KPIs)
+🛠️ KEY FEATURES
 ----------------------------------------------------
-• Total Revenue ≈ 968K
-• Total Units Sold ≈ 2M
-• Average Price per Unit ≈ 0.43
+• Interactive visuals displaying:
+  - Total Revenue
+  - Units Sold
+  - Average Price per Unit
+  - Operating Profit and Margin
 
-These metrics indicate strong sales volume with relatively
-low unit pricing.
+• Sales trend analysis over time to highlight seasonal
+  patterns and performance fluctuations
+
+• Geographic analysis using US-based regions and states
+  to compare regional sales performance
+
+• Brand-level analysis enabling comparison between
+  Coca-Cola products such as Coca-Cola, Diet Coke,
+  Sprite, Fanta, and Powerade
+
+• Data preparation and transformation performed using
+  Power Query to ensure data consistency and usability
 
 
-📅 SALES TREND ANALYSIS
+📈 ANALYTICAL APPROACH
 ----------------------------------------------------
-• Revenue shows clear seasonal behavior
-• Sales peak during summer months (July–August)
-• Strong performance is also observed in year-end months
-  (November–December)
-• Lower sales activity appears during early-year months
-  (February–March)
-
-This highlights the impact of seasonality on sales
-performance.
+• Cleaned and structured the dataset using Power Query
+• Created calculated measures using DAX
+• Designed KPIs to summarize overall performance
+• Used interactive slicers to enable exploratory analysis
+• Applied map and chart visuals to highlight regional and
+  temporal patterns
 
 
-🗺️ REGIONAL PERFORMANCE
+🔍 KEY INSIGHTS
 ----------------------------------------------------
-• Sales performance varies significantly by region
-• West and Southeast regions contribute the highest revenue
-• Northeast shows strong but comparatively lower performance
-• Midwest displays moderate contribution
+• The business operates under a high-volume, low-price
+  sales model
 
-Geographic analysis reveals regional opportunities and
-performance gaps.
+• Sales performance shows clear seasonal behavior, with
+  peaks during summer and year-end periods
 
+• Revenue contribution varies significantly by region,
+  with certain US regions outperforming others
 
-🧃 PRODUCT & BRAND ANALYSIS
-----------------------------------------------------
-• The dashboard includes interactive brand-level filtering
-  (Coca-Cola, Diet Coke, Fanta, Dasani, Powerade)
-• Users can compare product performance across regions
-  and time periods
-• Enables deeper analysis of brand contribution to revenue
-
-
-🔎 ANALYTICAL APPROACH
-----------------------------------------------------
-• Data modeling and transformation using Power Query
-• KPI creation using DAX measures
-• Interactive visuals for trend and regional analysis
-• Slicers used for brand-level exploration
-• Map visualization used to analyze geographic performance
+• Brand-level filtering reveals differences between
+  high-volume products and high-revenue contributors
 
 
 💡 BUSINESS VALUE
 ----------------------------------------------------
-• Identify seasonal sales patterns
-• Compare regional and product-level performance
-• Support strategic planning and distribution decisions
-• Enable interactive exploration instead of static reporting
+This dashboard helps users:
+• Gain a clear overview of sales performance
+• Identify seasonal and regional sales patterns
+• Compare product and brand performance
+• Support data-driven analysis using interactive reports
+
+
+📂 DATASET
+----------------------------------------------------
+The dataset used in this project is an educational,
+simulated retail sales dataset sourced from a YouTube
+course and designed for learning and analytical practice.
 
 
 🛠️ TOOLS USED
@@ -91,11 +96,11 @@ performance gaps.
 • Power Query
 • DAX
 • Interactive Visualizations
-• Map & KPI Visuals
+• KPI & Map Visuals
 
 
 👤 AUTHOR
 ----------------------------------------------------
 Shady Mahmoud
 Aspiring Data Analyst — Power BI & Data Visualization
-
+████████████████████████████████████████████████████
