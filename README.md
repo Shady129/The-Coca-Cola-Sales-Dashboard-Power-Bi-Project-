@@ -6,8 +6,9 @@
 ----------------------------------------------------
 This project presents an interactive Power BI dashboard
 developed to analyze and monitor sales performance of
-Coca-Cola beverage products using an educational,
-course-based retail sales dataset.
+Coca-Cola beverage products using a retail sales dataset
+sourced from https://www.careerprinciples.com/ for
+educational and analytical practice.
 
 The dashboard transforms structured sales data into
 clear insights that support understanding revenue,
@@ -85,10 +86,9 @@ This dashboard helps users:
 
 📂 DATASET
 ----------------------------------------------------
-The dataset used in this project is an educational,
-simulated retail sales dataset sourced from a YouTube
-course and designed for learning and analytical practice.
-
+The dataset used in this project was sourced from
+https://www.careerprinciples.com/ and used for analytical
+practice and learning.
 
 🛠️ TOOLS USED
 ----------------------------------------------------
@@ -103,4 +103,3 @@ course and designed for learning and analytical practice.
 ----------------------------------------------------
 Shady Mahmoud
 Aspiring Data Analyst — Power BI & Data Visualization
-████████████████████████████████████████████████████
